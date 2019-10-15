@@ -4,7 +4,7 @@ An address validation control that utilises the Experian web services.
 # Getting Started
 
 ## Configure environment
-There are some software prerequisites required to compile this applicaiton. See the following link for advice.
+There are some software prerequisites required to compile this application. See the following link for advice.
 https://debajmecrm.com/2019/04/26/part-2-setting-up-development-environment-and-custom-component-project/
 
 ## Download Source and Compile
