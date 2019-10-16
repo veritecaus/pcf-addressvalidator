@@ -9,7 +9,6 @@ Utilising Experian, this control is capable of validating addresses from a large
 
 ## Download
 You can download the compiled control in a solution format from the releases tab and then deploy to your D365/PowerApps instance.
-
 ## Configure Control in D365 CE/PowerApps
 1. Import solution through maker portal (https://make.powerapps.com)
 2. Add text field to your desired form
