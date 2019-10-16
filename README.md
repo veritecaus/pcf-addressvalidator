@@ -6,7 +6,6 @@ Utilising Experian, this control is capable of validating addresses from a large
 [Demo Video](/AddressDemo.mp4)
 
 # Getting Started
-
 ## Download
 You can download the compiled control in a solution format from the releases tab and then deploy to your D365/PowerApps instance.
 ## Configure Control in D365 CE/PowerApps
@@ -20,7 +19,6 @@ Note, there is currently a bug that stops you from mapping the outputs of the co
 
 #Compile from Source
 The following instructions are provided for those who prefer to compile from source.
-
 ## Configure environment
 There are some software prerequisites required to compile this application. 
 1. Install Node.js and NPM - https://nodejs.org/en/
@@ -29,7 +27,6 @@ There are some software prerequisites required to compile this application.
 4. Install PowerApps CLI - https://aka.ms/PowerAppsCLI 
 
 More Info: https://docs.microsoft.com/en-us/powerapps/developer/component-framework/get-powerapps-cli
-
 ## Download Source and Compile
 1. Download source code from the this repository (git clone or download zip)
 2. Open the "Developer Command Prompt" 
