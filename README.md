@@ -3,9 +3,7 @@ An address validation control for D365 CE/PowerApps that utilises the Experian (
 
 Utilising Experian, this control is capable of validating addresses from a large number of countries - https://www.edq.com/documentation/apis/address-validate/global-intuitive/#supported-countries-2.
 
-<video width="320" height="240" controls>
-  <source src="AddressDemo.mp4" type="video/mp4">
-</video>
+[Demo](/AddressDemo.mp4)
 
 # Getting Started
 
