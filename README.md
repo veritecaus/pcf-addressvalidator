@@ -17,7 +17,7 @@ You can download the compiled control in a solution format from the releases tab
 4. Add values for the mandatory fields ExperianToken (your auth token) and AddressSearch (the field that this control is bound to).
 5. All other fields are optional and are used to map the selected address to your fields on the form.
 
-Note, there is currently a bug that stops you from mapping the outputs of the control to out of the box address fields. This is a known issue and Magnetism has supplied us with a work around - https://community.dynamics.com/crm/b/magnetismsolutionscrmblog/posts/binding-to-address-fields-in-a-pcf-control)
+Note, there is currently a bug that stops you from mapping the outputs of the control to out-of-the-box address fields. This is a known issue and Magnetism has supplied us with a work around - https://community.dynamics.com/crm/b/magnetismsolutionscrmblog/posts/binding-to-address-fields-in-a-pcf-control)
 
 #Compile from Source
 The following instructions are provided for those who prefer to compile from source.
