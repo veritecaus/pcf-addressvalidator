@@ -35,4 +35,4 @@ More Info: https://docs.microsoft.com/en-us/powerapps/developer/component-framew
 5. Execute "MSBUILD /t:restore"
 6. Execute "MSBUILD"
 
-You now have a solution that is ready to be dpeloyed to your target D365/PowerApps project - "deployment\VeritecPcfAddressValidator\bin\Debug\VeritecPcfAddressValidator.zip".
+You now have a solution that is ready to be deployed to your target D365/PowerApps project - "deployment\VeritecPcfAddressValidator\bin\Debug\VeritecPcfAddressValidator.zip".
