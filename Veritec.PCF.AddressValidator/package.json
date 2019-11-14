@@ -10,14 +10,13 @@
   },
   "dependencies": {
     "@types/cors": "^2.8.6",
-    "@types/node": "^10.12.18",
+    "@types/node": "^10.17.5",
     "@types/powerapps-component-framework": "1.1.0",
-    "build": "^0.1.4",
     "class-transformer": "^0.2.3",
     "cors": "^2.8.5",
     "datalist-polyfill": "^1.23.3",
     "ts-debounce": "^1.0.0",
-    "typescript-http-client": "^0.10.0"
+    "typescript-http-client": "^0.10.1"
   },
   "devDependencies": {
     "pcf-scripts": "~0",
